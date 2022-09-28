@@ -53,14 +53,14 @@ global.sc = 'gtmnw' //script link
 global.linkz = 'https://youtu.be/uzE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
+global.packname = "Dark ANdY st Bot" //ur sticker watermark packname
 global.author = "DARK ANDY" //ur sticker watermark author
 global.footer = "® ANDY MR LIT HAITIAN"
 global.aliveimg ="https://i.ibb.co/028Y8C0/IMG-20220926-WA0156.jpg"
 global.allmenuimg ="https://i.ibb.co/028Y8C0/IMG-20220926-WA0156.jpg"
-global.welcome  = 'https://i.ibb.co/028Y8C0/IMG-20220926-WA0156.jpg"
-global.gbyeim"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.welcomeimg= "https://i.ibb.co/028Y8C0/IMG-20220926-WA0156.jpg"
+global.gbyeimg = "https://i.ibb.co/028Y8C0/IMG-20220926-WA0156.jpg"
+global.alivemsg = "sak gnla vye chen ? ..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
